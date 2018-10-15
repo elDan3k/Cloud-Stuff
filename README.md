@@ -4,7 +4,7 @@ Cloud-related materials (links, presentations, etc) worth seeing, mostly educati
 
 ## Azure
 
- - Microsoft Learn, introduction to Azure, containers, VMs, architecture - official [LINK](https://docs.microsoft.com/en-us/learn/)
+ - Microsoft Learn platform - introduction to Azure, containers, VMs, architecture [LINK](https://docs.microsoft.com/en-us/learn/)
 
 #### Azure CLI
  - [Getting started](https://docs.microsoft.com/en-us/cli/azure/get-started-with-azure-cli?view=azure-cli-latest)
