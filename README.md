@@ -11,6 +11,10 @@ Cloud-related materials (links, presentations, etc) worth seeing, mostly educati
  - [GitHub](https://github.com/Azure/azure-cli)
  
 #### Azure - JAVA [GitHub](https://github.com/Azure?utf8=%E2%9C%93&q=&type=&language=java)
+ - Azure Active Directory Authentication Library for Java
+   - [DOCS](https://docs.microsoft.com/en-us/azure/active-directory/develop/azure-ad-developers-guide)
+   - [Getting started](https://github.com/AzureAD/azure-activedirectory-library-for-java/wiki)
+   - [Code samples](https://github.com/AzureAD/azure-activedirectory-library-for-java/wiki/Code-samples)
  - Azure functions API for Java 
    - [DOCS](https://docs.microsoft.com/en-us/azure/azure-functions/functions-reference-java)
    - [GitHub](https://github.com/Azure/azure-functions-java-library)
@@ -18,6 +22,7 @@ Cloud-related materials (links, presentations, etc) worth seeing, mostly educati
    - [DOCS](https://docs.microsoft.com/en-us/java/api/overview/azure/storage?view=azure-java-stable)
    - [Quickstart Azure SDK7](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-java)
    - [Quickstart Azure SDK10](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-java-v10)
+   - [Asynchronous Azure Storage Examples] (https://azure.microsoft.com/en-us/blog/build-richer-applications-with-the-new-asynchronous-azure-storage-sdk-for-java/)
    - [GitHub](https://github.com/Azure/azure-storage-java)
  - Azure KeyVault SDK for Java
    - [What is KeyVault?](https://docs.microsoft.com/en-us/azure/key-vault/key-vault-whatis)
