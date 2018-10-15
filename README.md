@@ -15,6 +15,7 @@ Cloud-related materials (links, presentations, etc) worth seeing, mostly educati
  - [GitHub](https://github.com/Azure/azure-cli)
  
 #### Azure - JAVA [GitHub](https://github.com/Azure?utf8=%E2%9C%93&q=&type=&language=java)
+ - [Azure for Java developers](https://docs.microsoft.com/en-us/java/azure/?view=azure-java-stable)
  - Azure Active Directory Authentication Library for Java
    - [DOCS](https://docs.microsoft.com/en-us/azure/active-directory/develop/azure-ad-developers-guide)
    - [Getting started](https://github.com/AzureAD/azure-activedirectory-library-for-java/wiki)
