@@ -6,6 +6,10 @@ Cloud-related materials (links, presentations, etc) worth seeing, mostly educati
 
  - Microsoft Learn, introduction to Azure, containers, VMs, architecture - official [LINK](https://docs.microsoft.com/en-us/learn/)
 
+#### Azure CLI
+ - [Getting started](https://docs.microsoft.com/en-us/cli/azure/get-started-with-azure-cli?view=azure-cli-latest)
+ - [GitHub](https://github.com/Azure/azure-cli)
+ 
 #### Azure - JAVA [GitHub](https://github.com/Azure?utf8=%E2%9C%93&q=&type=&language=java)
  - Azure functions API for Java 
    - [DOCS](https://docs.microsoft.com/en-us/azure/azure-functions/functions-reference-java)
