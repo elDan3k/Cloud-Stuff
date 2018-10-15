@@ -19,6 +19,11 @@ Cloud-related materials (links, presentations, etc) worth seeing, mostly educati
    - [Quickstart Azure SDK7](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-java)
    - [Quickstart Azure SDK10](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-java-v10)
    - [GitHub](https://github.com/Azure/azure-storage-java)
+ - Azure KeyVault SDK for Java
+   - [What is KeyVault?](https://docs.microsoft.com/en-us/azure/key-vault/key-vault-whatis)
+   - [DOCS](https://docs.microsoft.com/en-us/java/api/overview/azure/keyvault?view=azure-java-stable)
+   - [GitHub](https://github.com/Azure/azure-keyvault-java)
+   - [Quickstart](https://docs.microsoft.com/en-us/azure/key-vault/key-vault-get-started)
 
 ## Kubernetes
 
