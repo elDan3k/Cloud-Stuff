@@ -2,6 +2,9 @@
 
 Cloud-related materials (links, presentations, etc) worth seeing, mostly educational stuff.
 
+## AWS
+ - AWS Documentation [LINK](https://docs.aws.amazon.com/index.html#lang/en_us)
+
 ## Azure
 
  - Microsoft Learn platform - introduction to Azure, containers, VMs, architecture [LINK](https://docs.microsoft.com/en-us/learn/)
