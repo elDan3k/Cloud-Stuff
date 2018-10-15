@@ -6,6 +6,16 @@ Cloud-related materials (links, presentations, etc) worth seeing, mostly educati
 
  - Microsoft Learn, introduction to Azure, containers, VMs, architecture - official [LINK](https://docs.microsoft.com/en-us/learn/)
 
+#### Azure - JAVA
+ - Azure functions API for Java 
+   - [DOCS](https://docs.microsoft.com/en-us/azure/azure-functions/functions-reference-java)
+   - [GitHub](https://github.com/Azure/azure-functions-java-library)
+ - Azure storage API for Java 
+   - [DOCS](https://docs.microsoft.com/en-us/java/api/overview/azure/storage?view=azure-java-stable)
+   - [Quickstart Azure SDK7](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-java)
+   - [Quickstart Azure SDK10](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-java-v10)
+   - [GitHub](https://github.com/Azure/azure-storage-java)
+
 ## Kubernetes
 
  - Kubernetes official interactive tutorials [LINK](https://kubernetes.io/docs/tutorials/)
