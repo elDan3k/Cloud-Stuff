@@ -28,7 +28,8 @@ Cloud-related materials (links, presentations, etc) worth seeing, mostly educati
    - [Quickstart Azure SDK7](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-java)
    - [Quickstart Azure SDK10](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-java-v10)
    - [Asynchronous Azure Storage Examples] (https://azure.microsoft.com/en-us/blog/build-richer-applications-with-the-new-asynchronous-azure-storage-sdk-for-java/)
-   - [GitHub](https://github.com/Azure/azure-storage-java)
+   - [GitHub-example](https://github.com/Azure-Samples/storage-blobs-java-v10-quickstart)
+   - [GitHub-project](https://github.com/Azure/azure-storage-java)
  - Azure KeyVault SDK for Java
    - [What is KeyVault?](https://docs.microsoft.com/en-us/azure/key-vault/key-vault-whatis)
    - [DOCS](https://docs.microsoft.com/en-us/java/api/overview/azure/keyvault?view=azure-java-stable)
