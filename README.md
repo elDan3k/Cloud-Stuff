@@ -5,6 +5,7 @@ Cloud-related materials (links, presentations, etc) worth seeing, mostly educati
 ## AWS
  - [AWS Documentation](https://docs.aws.amazon.com/index.html#lang/en_us)
  - [Labda function handler in Java](https://docs.aws.amazon.com/lambda/latest/dg/java-programming-model-handler-types.html)
+ - [Jerry Hargrove - AWS Cloud Diagrams & Notes] (https://www.awsgeek.com/)
 
 ## Azure
 
